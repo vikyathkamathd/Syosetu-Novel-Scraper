@@ -8,24 +8,27 @@ A Python script that scrapes chapters of novels/books from Syosetu (ncode.syoset
 - Saves the chapters into a single `.txt` file with proper formatting.
 
 ## Requirements
-- Python 3.x
+- Python 3.6+
 - Libraries:
   - `cloudscraper`
   - `beautifulsoup4`
 
 ## Installation
 1. Clone the repository:
-    ```git clone https://github.com/vikyathkamathd/Syosetu-Novel-Scraper.git
+    ```bash
+    git clone https://github.com/vikyathkamathd/Syosetu-Novel-Scraper.git
     cd Syosetu-Novel-Scraper
     ```
 
 2. Install the required libraries:
-    ```pip install cloudscraper beautifulsoup4
+    ```bash
+    pip install cloudscraper beautifulsoup4
     ```
 
 ## Usage
 1. Run the script:
-    ```python syosetu_scraper.py
+    ```bash
+    python syosetu_scraper.py
     ```
 
 2. Enter the required inputs when prompted:
