@@ -28,7 +28,7 @@ A Python script that scrapes chapters of novels/books from Syosetu (ncode.syoset
 ## Usage
 1. Run the script:
     ```bash
-    python syosetu_scraper.py
+    python scraper.py
     ```
 
 2. Enter the required inputs when prompted:
